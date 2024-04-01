@@ -5,15 +5,15 @@ This repository contains code for detecting phishing URLs using data science tec
 Phishing attacks continue to be a significant threat to individuals and organizations alike. Traditional methods of URL filtering may not be sufficient to catch all phishing URLs due to their dynamic and constantly evolving nature. In this project, we leverage data science and machine learning to build a robust phishing URL detection system.
 
 ## Libraries Used
-Pandas: For data manipulation and analysis.
-Scikit-learn: For building machine learning models and evaluating their performance.
-XGBoost: An efficient and scalable gradient boosting library.
-LightGBM: A fast, distributed, and high-performance gradient boosting framework.
-Matplotlib: For creating visualizations to analyze data and model performance.
-Seaborn: For statistical data visualization.
-WordCloud: For generating word clouds to visualize text data.
-Getting Started
-To get started with this project, follow these steps:
+- Pandas: For data manipulation and analysis.
+- Scikit-learn: For building machine learning models and evaluating their performance.
+- XGBoost: An efficient and scalable gradient boosting library.
+- LightGBM: A fast, distributed, and high-performance gradient boosting framework.
+- Matplotlib: For creating visualizations to analyze data and model performance.
+- Seaborn: For statistical data visualization.
+- WordCloud: For generating word clouds to visualize text data.
+- Getting Started
+- To get started with this project, follow these steps:
 
 ## Model Building
 We experiment with various machine learning algorithms including XGBoost and LightGBM. These algorithms are known for their ability to handle large datasets efficiently and achieve high accuracy. We train the models using a combination of feature engineering techniques and hyperparameter tuning to optimize performance.
